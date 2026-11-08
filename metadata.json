@@ -1,0 +1,6 @@
+{
+  "name": "HanimeFlow — Trình Phát & Bộ Lọc Anime Chuyên Sâu",
+  "description": "Ứng dụng Android PWA tích hợp nguồn video anime trực tuyến với bộ lọc chuyên sâu theo tag, độ phổ biến, lượt xem, danh sách phát cá nhân và thông báo tập mới.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
